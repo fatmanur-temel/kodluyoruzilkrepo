@@ -3,7 +3,10 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installation
 Öncelikle projeyi clonelayın. (https://github.com/fatmanur-temel/kodluyoruzilkrepo.git)
-`git clone https://github.com/fatmanur-temel/kodluyoruzilkrepo.git`
+
+```
+git clone https://github.com/fatmanur-temel/kodluyoruzilkrepo.git
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Code programında açınız.
